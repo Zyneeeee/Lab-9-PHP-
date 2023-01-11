@@ -32,7 +32,7 @@ if(!empty($checkbox)){
 //Question 4
 echo "<br><b>Question 4</b> <br><br>";
 function sortArray($array, $sortType)
-{
+{ 
     if ($sortType == "ASC") {
         sort($array);
     }
