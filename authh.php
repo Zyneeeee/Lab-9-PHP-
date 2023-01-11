@@ -77,9 +77,10 @@ if ($_GET['Radio_type'] == "Second") {
     print_r($random_array_value);
     echo "</pre>";
 }
+
+
+
+
+
+
 ?>
-
-
-
-
-
